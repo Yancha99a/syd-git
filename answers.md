@@ -22,3 +22,14 @@ Celui ci n'a pas ete modifie.
 ### Task 7
 
 ![Gitgraph](img/gitgraph.svg)
+
+1. Nom de branche 
+2. Identifiant de commit
+3. Message de commit
+4. Author
+5. tag
+6. Merge de deux branches
+7. Creation d'une nouvelle branche
+8. Merge sur la branche principale
+9. Creation d'une nouvelle branche
+10. Commit initial
