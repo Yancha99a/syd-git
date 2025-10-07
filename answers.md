@@ -1,4 +1,4 @@
-# Answers of <Yannick> <Chabloz> <Yancha99a>
+# Answers of Yannick Chabloz Yancha99a
 
 ## Basics
 ### Task 1

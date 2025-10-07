@@ -2,7 +2,7 @@
 The goal of this document is to : 
 
 - Approach the Markdown syntax
-- SHow the result on a Github repository
+- Show the result on a Github repository
 
 ## How-To
 
